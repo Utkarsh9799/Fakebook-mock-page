@@ -5,7 +5,7 @@ body{
 }
 
 #Nav{
-	height: 82px;
+	height: 80px;
 	background-color: #3b5998;
 }
 
@@ -43,7 +43,7 @@ h1{
 #login{
   position:relative;
   width:50px;
-  height:22px;
+  height:24px;
   background-color: #5b72a9;
   border: 1px solid #999;
   border-style: outset;
@@ -88,7 +88,7 @@ h1{
 }
 
 #left{
-  width:565px;
+  width:570px;
   display:inline-block;
 }
 
